@@ -42,8 +42,6 @@ public:
     };
 };
 
-
-
 int main()
 {
     drob d1;
